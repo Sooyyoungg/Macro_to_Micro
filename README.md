@@ -21,4 +21,8 @@ In phase1, we use Image-to-Image Translation model using encoder, generator, dis
 Phase1 model is on hyper-parameter tunning and the model for phase2 is currently being designed. Phase3 NeRF is also on desining.
 
 ## Current Result
-<p align="center"></p>   
+<p align="center"><img width="592" alt="phase1" src="https://user-images.githubusercontent.com/43199011/230924398-6fbda31b-3668-45b6-8cc8-67c97b937941.png"></p>   
+- Test Avg PSNR: 24.964189649539456
+- Test Avg SSIM: 0.5903022885322571
+- Test Avg MAE: 0.02173507321778563
+- Test Avg MSE: 0.0031350249412777005
